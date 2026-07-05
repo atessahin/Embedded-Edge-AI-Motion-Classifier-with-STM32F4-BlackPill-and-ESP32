@@ -1,4 +1,4 @@
-# Embedded Edge AI Motion Classifier with STM32F4 BlackPill and ESP32
+# Embedded Edge AI Motion Classifier
 
 This project is a real-time embedded motion classification system. An **STM32F4 BlackPill** reads acceleration data from an **ICM20602 IMU** over SPI and sends the data to an **ESP32** over UART. The ESP32 runs a small neural network with weights trained on a PC and predicts the performed motion as `O`, `Z`, or `I`.
 
