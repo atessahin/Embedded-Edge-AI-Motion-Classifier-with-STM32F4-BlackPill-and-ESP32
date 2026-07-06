@@ -165,6 +165,6 @@ In `esp32_link.c`, only the softmax, normalization, and `app_main` parts were wr
 
 In the Python files, only `ai_train.py` was written manually; the other Python files (`serial_csv_auto_saver.py`, `data_preprocessing.py`) were AI-generated.
 ## Video
-`My movements in the video are out of sync they don't match the video`
+`!Some of my movements in the video are out of sync; they don't match the video!`
 
 - https://youtu.be/WerAh7AALbo
